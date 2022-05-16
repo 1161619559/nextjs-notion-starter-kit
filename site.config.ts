@@ -17,10 +17,10 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: ' ',
+  // twitter: ' ',
+  // linkedin: ' ',
   github: '1258062688',
-  linkedin: ' ',
-  zhihu: 'yinshengping ',
+  zhihu: '  ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
