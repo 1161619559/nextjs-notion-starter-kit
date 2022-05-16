@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: ' ',
   github: '1258062688',
   linkedin: ' ',
+  zhihu: 'yinshengping ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
