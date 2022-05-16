@@ -51,13 +51,14 @@ export const name: string = getSiteConfig('name')
 export const author: string = getSiteConfig('author')
 export const domain: string = getSiteConfig('domain')
 export const description: string = getSiteConfig('description', 'Notion Blog')
-export const language: string = getSiteConfig('language', 'zh-CN')
+export const language: string = getSiteConfig('language', 'en')
 
 // social accounts
 export const twitter: string | null = getSiteConfig('twitter', null)
 export const github: string | null = getSiteConfig('github', null)
 export const linkedin: string | null = getSiteConfig('linkedin', null)
 export const zhihu: string | null = getSiteConfig('zhihu', null)
+export const douyin: string | null = getSiteConfig('douyin', null)
 
 // default notion values for site-wide consistency (optional; may be overridden on a per-page basis)
 export const defaultPageIcon: string | null = getSiteConfig(
