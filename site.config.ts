@@ -21,6 +21,7 @@ export default siteConfig({
   // linkedin: ' ',
   github: '1258062688',
   zhihu: '  ',
+  douyin: 'F8jcRLB',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
