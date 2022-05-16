@@ -44,5 +44,5 @@ export const GitHubShareButton: React.FC = () => {
         />
       </svg>
     </a>
-  )
+  ) 
 }
